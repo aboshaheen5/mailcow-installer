@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/aboshaheen5/mailcow-installer)](https://github.com/aboshaheen5/mailcow-installer/issues)
 
 <div align="center">
-  <img src="https://mailcow.email/img/mailcow.svg" alt="Mailcow Logo" width="200"/>
+  <img src="https://cdn.moshaheen.xyz/Nn7x.svg" alt="Mailcow Logo" width="200"/>
   
   *An automated installation script for Mailcow - The complete mail server solution*
 </div>
